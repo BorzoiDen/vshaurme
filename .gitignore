@@ -2,8 +2,7 @@
 .idea/
 .vscode/
 .DS_Store/
-vshaurme/*.sqlite3
+vshaurme/**/*.sqlite3
 
 *.sqlite3
-
 
